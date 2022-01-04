@@ -2,6 +2,42 @@
     margin: 0;
     padding: 0;
 }
+.section_header{
+    background: #9baae5;
+}
+.header-menu {
+    background-color: #0984e3;
+    border-radius: 5px;
+}
+
+.header-menu ul {
+    text-align: center;
+}
+
+.header-menu ul li {
+    display: inline-block;
+    margin-left: -4px;
+
+}
+
+.header-menu ul li a {
+    color: #fff;
+    padding: 15px 40px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    border-right: 1px solid #ddd;
+    font-family: Times;
+}
+
+.header-menu ul li:first-child a {
+    border-left: 1px solid #ddd;
+}
+
+.header-menu ul li:hover>a {
+    background: #0361a8;
+}
+
 
 /* Age Calculator */
 .section1{
@@ -67,7 +103,7 @@
     font-family: impact;
     font-size: 30px;
     color: #fff;
-    background:#007fff;
+    background: #eb2f06;
     border-radius: 5px;
     
     

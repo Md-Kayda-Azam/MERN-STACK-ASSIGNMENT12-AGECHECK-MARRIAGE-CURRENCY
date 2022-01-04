@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Age Calculator */
+.section1{
+    background: #9baae5;
+}
+.card1{
+    background: #00a8ff;
+    border-radius: 5px;
+    font-size: 20px;
+    color: black;
+    font-family: Times;
+    padding: 100px;
+}
+.card1 .title1{
+    text-align: center;
+    font-family: impact;
+    font-size: 30px;
+    color: #e84118;
+    background: #000;
+    border-radius: 5px;
+}
+.card1 .card-body1{
+    
+}
+
+/* Currrency Converter */
+.section2{
+    background: #ffcccc;
+}
+.section2 .card2{
+    background: #17c0eb;
+    border-radius: 5px;
+    font-size: 20px;
+    color: black;
+    font-family: Times;
+     padding: 100px;
+}
+.section2 .card2 .title2{
+    text-align: center;
+    font-family: impact;
+    font-size: 30px;
+    color: #fff;
+    background:#7158e2;
+    border-radius: 5px;
+    
+}
+.section2 .card2 .card-body2{}
+
+/*  Marriage Age Check*/
+.section3{
+    background: #ece779;
+}
+.section3 .card3{
+    background: #93ff61;
+    border-radius: 5px;
+    font-size: 20px;
+    color: black;
+    font-family: Times;
+    padding: 100px;
+}
+.section3 .card3 .title3{
+    text-align: center;
+    font-family: impact;
+    font-size: 30px;
+    color: #fff;
+    background:#007fff;
+    border-radius: 5px;
+    
+    
+}
+.section3 .card3 .card-body3{}

@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*  Sign up*/
+.section4{
+    background: #ddd;
+}
+.section4 .card4{
+    background: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+    color: black;
+    font-family: normal;
+    padding: 100px;
+}
+.section4 .card4 .title4{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #000;
+    background: #fff;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    
+    
+}
+.section4 .card4 .card-body4 .button{
+    width: 75px;
+    height: 100px;
+} 
+
+.section4 .card4 .title4 .simple-title{
+    font-size: 15px;
+}
